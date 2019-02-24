@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Lab Calculator</string>
+    <string name="unitconversion">Unit Conversion</string>
+    <string name="distanceunits">Distance Units</string>
+    <string name="meters">Meters</string>
+    <string name="inches">Inches</string>
+    <string name="feet">Feet</string>
+    <string name="yards">Yards</string>
+    <string name="miles">Miles</string>
+    <string name="nauticalmiles">Nautical Miles</string>
+    <string name="reset">Reset</string>
+    <string name="calculate">Calculate</string>
+    <string name="kilograms">Kilograms</string>
+    <string name="ounces">Ounces</string>
+    <string name="pounds">Pounds</string>
+    <string name="troypounds">Troy Pounds</string>
+    <string name="stones">Stones</string>
+    <string name="shorttons">Short Tons</string>
+    <string name="longtons">Long Tons</string>
+    <string name="weightunits">Weight Units</string>
+    <string name="volumeunits">Volume Units</string>
+    <string name="liters">Liters</string>
+    <string name="fluidounces">Fluid Ounces</string>
+    <string name="quarts">Quarts</string>
+    <string name="gallons">Gallons</string>
+    <string name="imperialgallons">Imperial Gallons</string>
+</resources>
